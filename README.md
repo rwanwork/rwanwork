@@ -1,4 +1,11 @@
-### Hi there 👋
+## Welcome to my GitHub repository!
+
+I'm a research associate at the University of Manchester.
+
+You can find out more about me at my [homepage](http://www.rwanwork.info/).
+
+Ray
+
 
 <!--
 **rwanwork/rwanwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
