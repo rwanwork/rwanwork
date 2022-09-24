@@ -1,6 +1,6 @@
 ## Welcome to my GitHub repository!
 
-I'm a research associate at the University of Manchester in Prof. Patrick [Cai's](http://www.cailab.org/) laboratory of the Department of Chemistry.
+I'm a research associate at the University of Manchester in Prof. Patrick [Cai](http://www.cailab.org/)'s laboratory of the Department of Chemistry.
 
 You can find out more about me at my [homepage](http://www.rwanwork.info/), which probably needs some updating...
 
