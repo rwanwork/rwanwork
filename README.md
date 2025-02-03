@@ -1,11 +1,11 @@
 ## Welcome to my GitHub repository!
 
-I'm a postdoctoral research associate at the University of Manchester in Prof. Patrick [Cai](http://www.cailab.org/)'s laboratory of the Department of Chemistry.
+I've been a postdoctoral research associate at the University of Manchester in Prof. Patrick [Cai](http://www.cailab.org/)'s laboratory of the Department of Chemistry since April 2022.
 
-You can find out more about me at my [homepage](http://www.rwanwork.info/), which probably needs some updating...
+📫 How to reach me: My [homepage](http://www.rwanwork.info/)
 
 Ray<br />
-August 2022
+February 2024
 
 
 <!--
